@@ -2,10 +2,10 @@
 
 This project makes a simple article recommendation engine using a natural
 language processing and word embeddings. The database comes from 
-Stanford's GloVe project trained from Wikipedia articles. The project
+[Stanford's GloVe project](https://nlp.stanford.edu/projects/glove/) trained from Wikipedia articles. The project
 will read in a database of word vectors and a corpus of text articles.
 
-The data comes from [BBC]
+The data comes from [BBC](http://mlg.ucd.ie/datasets/bbc.html)
 
 # Tutorial
 
